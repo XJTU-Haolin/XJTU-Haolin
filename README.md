@@ -14,7 +14,7 @@
 - 🏆 [Faraway-Frustum](https://github.com/dongfang-steven-yang/faraway-frustum) for faraway object 3D detection in [KITTI benchmark](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=48cc1c0c27874e2cc19cbcc76654e9a01c5403a0)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-- 📫 Email: zhang.10749@osu.edu, zhanghaolin1996@gmail.com, haolin19961213@163.com, Wechat: zhanghaolin1996
+- 📫 Email: zhanghaolin@xjtu.edu.cn, haolin19961213@163.com, Wechat: zhanghaolin1996
 
 ### Links:
 <p align="center">
