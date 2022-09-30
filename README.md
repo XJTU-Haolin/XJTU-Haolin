@@ -11,6 +11,7 @@
 - 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=odp2WtkAAAAJ)       
 - 🏆 Internship at DeepThink, Hangzhou (Computer Vision in the field of retail business and industry) (2020/12-2021/06)
 - 🏆 Worked at Dahua Technology - HuaRuiJie (Computer Vision including 2D detection, segmentation and classification in ADAS for LeapMotor) (2021/06-2022/06)
+- 🏆 [3D Harmonic Loss] for harmonized 3D object detection in [KITTI benchmark](https://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=cf021462bb1955480c0c5ebe6c1756545bf98566)
 - 🏆 [Faraway-Frustum](https://github.com/dongfang-steven-yang/faraway-frustum) for faraway object 3D detection in [KITTI benchmark](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=48cc1c0c27874e2cc19cbcc76654e9a01c5403a0)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
