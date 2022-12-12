@@ -5,17 +5,18 @@
 - 🔭 M.S. Graduated from [OSU-CITR](https://citr.osu.edu/people.html) (Control and Intelligent Transportation Research), The Ohio State University (2021/05)  
 - ⚡ Github Homepage: [https://github.com/OSU-Haolin]
 ----------------------------------------------------------------------------------------------------------------------------------------
-- 🔭 Work as full-time research assistant at Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University (2022/06-Now)
+- 🔭 Work as full-time Research Assistant at Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University (2022/06-Now)
 - ⚡ Github Homepage: [https://github.com/XJTU-Haolin]
 ----------------------------------------------------------------------------------------------------------------------------------------
 - 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=odp2WtkAAAAJ)       
-- 🏆 Internship at DeepThink, Hangzhou (Computer Vision in the field of retail business and industry) (2020/12-2021/06)
-- 🏆 Worked at Dahua Technology - HuaRuiJie (Computer Vision including 2D detection, segmentation and classification in ADAS for LeapMotor) (2021/06-2022/06)
-- 🏆 [3D Harmonic Loss] for harmonized 3D object detection in [KITTI benchmark](https://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=cf021462bb1955480c0c5ebe6c1756545bf98566)
-- 🏆 [Faraway-Frustum](https://github.com/dongfang-steven-yang/faraway-frustum) for faraway object 3D detection in [KITTI benchmark](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=48cc1c0c27874e2cc19cbcc76654e9a01c5403a0)
+- 🏆 Tech. Partner of DeepThink, Hangzhou (AI, computer vision, blockchain in retail business and industry) 
+- 🏆 Worked at Dahua Technology - HuaRuiJie (computer vision in ADAS for intelligent vehicles (e.g. LeapMotor)) (2021/06-2022/06)
+- 🏆 [3D Harmonic Loss] for harmonized 3D object detection in [KITTI benchmark](https://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=cf021462bb1955480c0c5ebe6c1756545bf98566) (Submitted to IEEE TVT)         
+- 🏆 [Faraway-Frustum](https://github.com/dongfang-steven-yang/faraway-frustum) for faraway object 3D detection in [KITTI benchmark](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=48cc1c0c27874e2cc19cbcc76654e9a01c5403a0) (ITSC 2021)    
+- 🏆 [MASK-PCPA](https://github.com/OSU-Haolin/Pedestrian_Crossing_Intention_Prediction) for pedestrian crossing intention prediction in [JAAD/PIE benchamark](https://data.nvision2.eecs.yorku.ca/PIE_dataset/)) (IEEE T-IV 2022)       
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-- 📫 Email: zhanghaolin@xjtu.edu.cn, haolin19961213@163.com, Wechat: zhanghaolin1996
+- 📫 Email: zhanghaolin@xjtu.edu.cn, zhang.10749@osu.edu, haolin19961213@163.com, Wechat: zhanghaolin1996
 
 ### Links:
 <p align="center">
@@ -23,4 +24,4 @@
 	<a href="https://www.linkedin.com/in/%E7%9A%93%E9%9C%96-%E5%BC%A0-a54a4b202/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>  
 </p>
 
-Last Edited on: 06/30/2022  
+Last Edited on: 12/12/2022  
