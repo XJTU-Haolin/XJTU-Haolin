@@ -11,7 +11,7 @@
 - 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=odp2WtkAAAAJ)       
 - 🏆 Tech. Partner of DeepThink, Hangzhou (AI, computer vision, blockchain in retail business and industry) 
 - 🏆 Worked at Dahua Technology - HuaRuiJie (computer vision in ADAS for intelligent vehicles (e.g. LeapMotor)) (2021/06-2022/06)
-- 🏆 [3D Harmonic Loss] for harmonized 3D object detection in [KITTI benchmark](https://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=cf021462bb1955480c0c5ebe6c1756545bf98566) (Submitted to IEEE TVT)         
+- 🏆 [3D Harmonic Loss](https://github.com/XJTU-Haolin/3D_Harmonic_Loss_for_Object_Detection) for harmonized 3D object detection in [KITTI benchmark](https://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=cf021462bb1955480c0c5ebe6c1756545bf98566) (Submitted to IEEE TVT)         
 - 🏆 [Faraway-Frustum](https://github.com/dongfang-steven-yang/faraway-frustum) for faraway object 3D detection in [KITTI benchmark](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=48cc1c0c27874e2cc19cbcc76654e9a01c5403a0) (ITSC 2021)    
 - 🏆 [MASK-PCPA](https://github.com/OSU-Haolin/Pedestrian_Crossing_Intention_Prediction) for pedestrian crossing intention prediction in [JAAD/PIE benchamark](https://data.nvision2.eecs.yorku.ca/PIE_dataset/)) (IEEE T-IV 2022)       
 ----------------------------------------------------------------------------------------------------------------------------------------
