@@ -2,14 +2,18 @@
 
 ### Here is my profile:  
 ----------------------------------------------------------------------------------------------------------------------------------------
-- 🔭 Full-time Ph.D. student at Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University (2023/09-Future)
-- 🔭 Full-time research assistant at Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University (2022/06-2023/09)
+- 2023/09-Future
+- 🔭 Full-time Ph.D. Student at Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University  
+- 2022/06-2023/09
+- 🔭 Full-time Research Assistant at Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University  
 - ⚡ Github Homepage: [https://github.com/XJTU-Haolin]
-----------------------------------------------------------------------------------------------------------------------------------------
+- 2019/08-2022/05
 - 🔭 Full-time M.S. graduated from [OSU-CITR](https://citr.osu.edu/people.html) (Control and Intelligent Transportation Research), The Ohio State University (2021/05)  
 - ⚡ Github Homepage: [https://github.com/OSU-Haolin]
 ----------------------------------------------------------------------------------------------------------------------------------------
-- 🔭 Tech. Partner of DeepThink, Hangzhou (AI, computer vision, blockchain in retail business and industry) (2020/10-Now) 
+- 2020/10-Now 
+- 🔭 Tech. Partner of DeepThink, Hangzhou (AI, computer vision, blockchain in retail business and industry)
+- 2021/06-2022/06
 - 🔭 Algorithm Engineer at Dahua Technology - Hirige Automotive (vision-based perception system of intelligent vehicles (LeapMotor)) (2021/06-2022/06) 
 ----------------------------------------------------------------------------------------------------------------------------------------
 - 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=odp2WtkAAAAJ)
