@@ -7,8 +7,8 @@
 - 2022/06-2023/09
 - 🔭 Full-time Research Assistant at Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University  
 - ⚡ Github Homepage: [https://github.com/XJTU-Haolin]
-- 2019/08-2022/05
-- 🔭 Full-time M.S. graduated from [OSU-CITR](https://citr.osu.edu/people.html) (Control and Intelligent Transportation Research), The Ohio State University (2021/05)  
+- 2019/08-2021/05
+- 🔭 Full-time M.S. graduated from [OSU-Control and Intelligent Transportation Research](https://citr.osu.edu/people.html), The Ohio State University
 - ⚡ Github Homepage: [https://github.com/OSU-Haolin]
 ----------------------------------------------------------------------------------------------------------------------------------------
 - 2020/10-Now 
