@@ -3,8 +3,6 @@
 ### Here is my profile:  
 ----------------------------------------------------------------------------------------------------------------------------------------
 - 🔭 Full-time Ph.D. student at Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University (2023/09-Future)
-- ⚡ Github Homepage: [https://github.com/XJTU-Haolin]
-----------------------------------------------------------------------------------------------------------------------------------------
 - 🔭 Full-time research assistant at Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University (2022/06-2023/09)
 - ⚡ Github Homepage: [https://github.com/XJTU-Haolin]
 ----------------------------------------------------------------------------------------------------------------------------------------
