@@ -14,7 +14,7 @@
 - 2020/10-Now 
 - 🔭 Tech. Partner of DeepThink, Hangzhou (AI, computer vision, blockchain in retail business and industry)
 - 2021/06-2022/06
-- 🔭 Algorithm Engineer at Dahua Technology - Hirige Automotive (vision-based perception system of intelligent vehicles (LeapMotor)) (2021/06-2022/06) 
+- 🔭 Algorithm Engineer at Dahua Technology - Hirige Automotive (vision-based perception system of intelligent vehicles, e.g. LeapMotor C11) 
 ----------------------------------------------------------------------------------------------------------------------------------------
 - 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=odp2WtkAAAAJ)
 - 🏆 [3D Harmonic Loss](https://github.com/XJTU-Haolin/3D_Harmonic_Loss_for_Object_Detection) for harmonized 3D object detection in [KITTI benchmark](https://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=cf021462bb1955480c0c5ebe6c1756545bf98566) (Submitted to IEEE TVT)         
