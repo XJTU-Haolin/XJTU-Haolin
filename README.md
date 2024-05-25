@@ -9,6 +9,11 @@
 - ⚡ Github Homepage: [https://github.com/XJTU-Haolin]
 - 2019/08-2021/05
 - 🔭 Full-time M.S. graduated from [OSU-Control and Intelligent Transportation Research](https://citr.osu.edu/people.html), The Ohio State University
+- <p align="center">
+	<a href="https://mobility21.cmu.edu/"><img src="https://mobility21.cmu.edu/wp-content/themes/mobility21/assets/img/global/logo-footer.png" alt="m21"/></a>
+ 	<a href="https://mobility21.cmu.edu/"><img src="https://mobility21.cmu.edu/wp-content/uploads/2017/09/logo2.png" alt="m21"/></a>
+</p>
+- ⚡Presentation on the "Pedestrian on the Roadway" workshop [Video](https://www.youtube.com/watch?v=r1iSP17FIs4&list=PLyqTShehRG5OmKAoRIXEpAQdjsDq9YOHg&index=6&t=162s), Mobitiy21
 - ⚡ Github Homepage: [https://github.com/OSU-Haolin]
 ----------------------------------------------------------------------------------------------------------------------------------------
 - 2020/10-Now 
