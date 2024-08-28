@@ -28,7 +28,7 @@
 - 🏆 [CoKE: Cooperative Keypoint Extraction](https://github.com/XJTU-Haolin/CoKE-Cooperative-Keypoints-Extraction) for local feature detection and matching (IEEE ITSC2023)     
 - 🏆 [3D Harmonic Loss](https://github.com/XJTU-Haolin/3D_Harmonic_Loss_for_Object_Detection) for harmonized 3D object detection in [KITTI benchmark](https://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=cf021462bb1955480c0c5ebe6c1756545bf98566) (IEEE T-VT 2023)           
 - 🏆 [Faraway-Frustum](https://github.com/dongfang-steven-yang/faraway-frustum) for faraway object 3D detection in [KITTI benchmark](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=48cc1c0c27874e2cc19cbcc76654e9a01c5403a0) (IEEE ITSC 2021)      
-- 🏆 [MASK-PCPA](https://github.com/OSU-Haolin/Pedestrian_Crossing_Intention_Prediction) for pedestrian crossing intention prediction in [JAAD/PIE benchamark](https://data.nvision2.eecs.yorku.ca/PIE_dataset/) (IEEE T-IV 2022)         
+- 🏆 [MASK-PCPA](https://github.com/OSU-Haolin/Pedestrian_Crossing_Intention_Prediction) for pedestrian crossing intention prediction in [JAAD/PIE benchamark](https://data.nvision2.eecs.yorku.ca/PIE_dataset/) (IEEE T-IV 2022, Best Research Paper of T-IV)            
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 - 📫 Email: zhanghaolin@xjtu.edu.cn, zhang.10749@osu.edu, haolin19961213@163.com, Wechat: qianmaifubi
